@@ -2,3 +2,12 @@ h1{
     font-size: 70px;
     color: red;
 }
+
+.btn1{
+    height: 40px;
+    width: 50px;
+    color: #000000;
+    border: 1px dotted #009999;
+    border-radius: 20px 20px;
+    background-color: #99ffff;
+}
