@@ -11,3 +11,37 @@ h1{
     border-radius: 20px 20px;
     background-color: #99ffff;
 }
+
+.btn2{
+    height: 50px;
+    width: 70px;
+    color: #b30000;
+    border: 1px solid #b30000;
+    border-radius: 0 20px 0 20px;
+    background-color: #ffb3b3;
+    
+}
+.btn3{
+    height: 50px;
+    width: 70px;
+    color: #734d26;
+    border: 1px solid #734d26;
+    border-radius: 20px 0 20px 0;
+    background-color: #dfbe9f;
+}
+.btn4{
+    height: 50px;
+    width: 70px;
+    color: #cccc00;
+    border: 1px double #cccc00;
+    border-radius: 20px 0 0 20px;
+    background-color: #ffff80;
+}
+.btn5{
+    height: 50px;
+    width: 80px;
+    color: #0c2ce0;
+    border: 5px dashed #e0e0e0;
+    border-radius: 0 0 0 20px;
+    background-color: #ff99ff;
+}
